@@ -1,0 +1,5 @@
+_pycache__/
+final_results/
+archive_results/
+*.sh
+runner_files/
